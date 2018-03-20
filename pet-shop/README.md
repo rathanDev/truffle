@@ -8,13 +8,11 @@ truffle develop
 
 migrate reset
 
-------
-
-ref:
+reference:
+---------
 http://truffleframework.com/tutorials/pet-shop
 
 npm install -g truffle
-
 
 
 
